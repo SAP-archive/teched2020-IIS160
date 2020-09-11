@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# IIS160 - Integrate SAP S/4HANA with SAP SuccessFactors Solutions
 
 ## Description
 
