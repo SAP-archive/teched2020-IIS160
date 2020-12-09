@@ -40,8 +40,13 @@ Run the following exercises to complete the hands-on:<br><br>
 ![](images/CIAS-08.png)<br><br>
 - Finally, set the **Have you checked the pre-requisite for ABAP Automation?** option to **Yes**.<br><br>
 ![](images/CIAS-09.png)<br><br>
-- Choose **Confirm Systems** and continue with the instructions given in the workflow.<br><br><br><br><br><br>
+- Choose **Confirm Systems**.<br><br>
 
+> **NOTE**
+>
+> **We have now guided you through the administrative workflow settings. All other steps are described in the workflow itself, so we didn't document them here in GitHub. Please follow the instructions in the workflow to continue.**
+
+<br><br><br>
 
 ## Important
 Please observe the following notes when executing the workflow:<br>
@@ -49,3 +54,8 @@ Please observe the following notes when executing the workflow:<br>
 #### Automated Task Execution
 - Please ensure that you always execute the automation using **Execute Step** [1] before you complete a task using **Task Completed** [2].<br><br>
 ![](images/CIAS-10.png)<br><br>
+
+#### SAP GUI Shortcut File
+
+- Depending on your SAP GUI configuration, the user name may be prefilled when opening the SAP GUI Shortcut File. Please change the user to the reserved P-User, e.g. P01234567890.<br><br>
+![](images/CIAS-11.png)<br><br>
