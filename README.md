@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session **IIS160 - Integrate SAP S/4HANA with SAP SuccessFactors Solutions**.<br><br>**The session can be conducted On Demand on our hosted landscape and is available until December 18th, 2020.**<br><br>
+This repository contains the material for the SAP TechEd 2020 session **IIS160 - Integrate SAP S/4HANA with SAP SuccessFactors Solutions**. **It can be conducted On Demand on our prepared landscape and is available until December 18th, 2020.**<br><br>
 
 ## Overview
 
