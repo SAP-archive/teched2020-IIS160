@@ -1,5 +1,7 @@
 # IIS160 - Integrate SAP S/4HANA with SAP SuccessFactors Solutions
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-IIS160)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-IIS160)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session **IIS160 - Integrate SAP S/4HANA with SAP SuccessFactors Solutions**. **It can be conducted On Demand on our prepared landscape and is available until December 18th, 2020.**<br><br>
